@@ -39,7 +39,7 @@
         <dependency>
             <groupId>dev.langchain4j</groupId>
             <artifactId>langchain4j-document-loader-github</artifactId>
-            <version>1.0.0-alpha1</version>
+            <version>0.36.0</version>
         </dependency>
 
         <dependency>
